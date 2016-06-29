@@ -1,4 +1,6 @@
 <
 ?php
 
-testing
+function testing(){
+
+}
